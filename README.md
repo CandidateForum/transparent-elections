@@ -1,0 +1,1 @@
+This project will allow Elections Commissions in any Jurisdiction to create a web site to which Candidates can upload videos in which they explain their positions on key issues.
