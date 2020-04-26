@@ -1,12 +1,20 @@
-# Transparent Elections
+## Transparent Elections
 
-## Objective for the Project
+### Objective for the Project
 
-This project will allow Elections Commissions in any Jurisdiction to create a Candidate Forum web site to which Candidates can upload videos in which they explain their positions on key issues.<br>
+Elections in most of the world today are full of misinformation and personal attacks, which hide the importance of the actual issues faced by the electorate.  
+We would like to helpt correct this.<br>
 <br>
-We will be building open source software that will install everything needed for the commission to build and maintain the Forum on it's own servers.
+The objective is to create web sites designed so that Candidates can upload videos in which they explain their positions on key issues,
+free from lies, spin, and pure negativity.<br>
+<br>
+This project will create software that will allow elections commissions in any jurisdiction to create such a web site.<br>
+<br>
+For more information on the concept, please visit www.candidateforum.us.<br>
+<br>
+Our open source software will install everything needed for the commission to build and maintain the Forum on it's own servers.
 
-## Status of the Project
+### Status of the Project
 
 At this point, we do not have the skills needed to create the software, and are looking for contributors.<br>
 <br>
